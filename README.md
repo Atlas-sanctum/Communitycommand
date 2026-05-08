@@ -1,1 +1,11 @@
-# Communitycommand
+
+  # Community Command
+
+  This is a code bundle for Community Command. The original project is available at https://www.figma.com/design/5Ywrxtvo7c6Njzm4PXAzIl/Community-Command.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
